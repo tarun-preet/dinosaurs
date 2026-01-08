@@ -4371,3 +4371,7 @@ harshithap2000-dai_deprivation"
 "Yeehaw Dino"
 
 ![](shr_dino.png)
+
+"Magician Dino"
+
+![](tarun_preet_magician_dino.png)
